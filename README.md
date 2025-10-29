@@ -32,7 +32,7 @@ The final model achieves **~75.8% accuracy** with balanced precision and recall,
 - **F1 Score:** 0.71  
 - Key predictors: `is_in_zone`, count-based features, and pitch location.
 
---
+---
 
 ## License
 
