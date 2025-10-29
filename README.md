@@ -32,15 +32,3 @@ The final model achieves **~75.8% accuracy** with balanced precision and recall,
 - **F1 Score:** 0.71  
 - Key predictors: `is_in_zone`, count-based features, and pitch location.
 
----
-
-## Dependencies
-
-Make sure the following packages are installed:
-
-```bash
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn pybaseball
-<<<<<<< HEAD
-=======
-
->>>>>>> 4d0a2900eeae3395d3cb2676d10e4f123aadeec3
