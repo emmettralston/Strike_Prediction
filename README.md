@@ -40,3 +40,7 @@ Make sure the following packages are installed:
 
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn pybaseball
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4d0a2900eeae3395d3cb2676d10e4f123aadeec3
